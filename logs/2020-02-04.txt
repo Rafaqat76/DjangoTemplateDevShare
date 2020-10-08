@@ -1,0 +1,48 @@
+Scraping Engine Logging2020-02-04 17:59:29,356 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 17:59:29,356 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:07:40,690 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:07:40,690 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:07:51,272 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:07:51,273 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:08:36,039 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:08:36,040 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:10:50,656 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:10:50,656 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:10:54,787 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:10:54,787 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:12:37,034 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:12:37,034 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:13:55,454 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:13:55,455 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:15:25,670 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:15:25,670 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:17:03,663 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:17:03,663 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:42:11,617 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:42:11,624 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-04 18:57:03,437 INFO 
+ Trulia  Will Scrape Site.
+2020-02-04 18:57:03,437 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 

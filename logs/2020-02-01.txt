@@ -1,0 +1,12 @@
+Scraping Engine Logging2020-02-01 13:03:34,335 INFO 
+ Trulia  Will Scrape Site.
+2020-02-01 13:03:34,335 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-01 13:10:47,407 INFO 
+ Trulia  Will Scrape Site.
+2020-02-01 13:10:47,407 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 
+2020-02-01 13:32:57,726 INFO 
+ Trulia  Will Scrape Site.
+2020-02-01 13:32:57,726 INFO 
+ Trulia at   Starting to scrape after 1 seconds for city Detroit and state MI 

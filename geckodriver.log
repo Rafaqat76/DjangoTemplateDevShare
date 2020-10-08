@@ -1,0 +1,124 @@
+1580840224774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofileoiGUSF"
+1580840225824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580840225824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580840225824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580840225824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580840227025	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580840228208	Marionette	INFO	Listening on port 60428
+1580840228219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580841732693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofileiFNN4F"
+1580841733439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580841733439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580841733439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580841733439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580841734569	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580841735614	Marionette	INFO	Listening on port 62312
+1580841735669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580842624528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofilevDW6Tz"
+1580842625432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580842625432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580842625432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580842625432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580842626755	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580842627390	Marionette	INFO	Listening on port 63922
+1580842627416	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1580860829734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofile5qwHzy"
+1580860831820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580860831821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580860831821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580860831821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580860834476	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580860834849	Marionette	INFO	Listening on port 60844
+1580860834887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1580873093271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofileGt4zhf"
+1580873094678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580873094679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580873094679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580873094679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580873096662	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580873097716	Marionette	INFO	Listening on port 63678
+1580873097795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580874534750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofileB4Uxr3"
+1580874535627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580874535628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580874535628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580874535628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580874536941	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580874537656	Marionette	INFO	Listening on port 64799
+1580874537729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580909837152	Marionette	INFO	Stopped listening on port 64799
+1580909837745	Marionette	INFO	Stopped listening on port 63678
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1580909846651	Marionette	INFO	Stopped listening on port 60844
+1580910046257	Marionette	INFO	Stopped listening on port 62312
+1580910047619	Marionette	INFO	Stopped listening on port 60428
+1580927109738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofilevOfwGz"
+1580927110909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927110909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927110909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927110909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927113642	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580927113929	Marionette	INFO	Listening on port 52710
+1580927114020	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 41579, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1580927156650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofile441g8V"
+1580927157309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927157310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927157310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927157310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927158342	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580927159529	Marionette	INFO	Listening on port 52856
+1580927159557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580927188152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5t/drm5c0w16zz290sj_50kc44mq9q2hn/T/rust_mozprofilewNfqXK"
+1580927188851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927188851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927188851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927188851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927189980	addons.xpi	WARN	Download of https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi failed: [Exception... "Certificate issuer is not built-in."  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: checkCert :: line 182"  data: no] Stack trace: checkCert()@resource://gre/modules/CertUtils.jsm:182
+onStopRequest()@resource://gre/modules/addons/XPIInstall.jsm:2427
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://pl-web-media.s3.amazonaws.com/extensions/printerlogic_extension-1.0.5.9-an%2Bfx-windows.xpi
+1580927191268	Marionette	INFO	Listening on port 52958
+1580927191279	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

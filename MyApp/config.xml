@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+<!-- DB connection info-->
+<DBconnectStr host="127.0.0.1" port="3306" user="" passwd="" db="TestHarness"></DBconnectStr>
+<filepath>
+<!-- log file path -->
+<log path="logs"></log>
+</filepath>
+</Settings>

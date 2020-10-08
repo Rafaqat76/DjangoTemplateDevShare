@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+{% block head %}
+<!-- Core JS files -->
+	<script type="text/javascript" src="{{STATIC_URL}}js/plugins/loaders/pace.min.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/core/libraries/jquery.min.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/core/libraries/bootstrap.min.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/plugins/loaders/blockui.min.js"></script>
+	<!-- /core JS files -->
+
+	<!-- Theme JS files -->
+	
+	<script type="text/javascript" src="assets/js/pages/dashboard.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/plugins/visualization/echarts/echarts.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/core/app.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/charts/echarts/pies_donuts.js"></script>
+	<!-- /theme JS files -->
+	
+	
+	<!-- Theme JS files -->
+	<script type="text/javascript" src="{{STATIC_URL}}js/plugins/tables/datatables/datatables.min.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/plugins/forms/selects/select2.min.js"></script>
+
+	<script type="text/javascript" src="{{STATIC_URL}}js/core/app.js"></script>
+	<script type="text/javascript" src="{{STATIC_URL}}js/pages/datatables_basic.js"></script>
+	<!-- /theme JS files -->
+
+{% endblock %}
+
+{% block content %}
+
+<!-- Basic datatable -->
+					<div class="panel panel-flat">
+						<div class="panel-heading">
+							<h5 class="panel-title">Basic datatable</h5>
+							<div class="heading-elements">
+								<ul class="icons-list">
+			                		<li><a data-action="collapse"></a></li>
+			                		<li><a data-action="reload"></a></li>
+			                		<li><a data-action="close"></a></li>
+			                	</ul>
+		                	</div>
+						</div>
+
+						<div class="panel-body">
+							This is the List of Customers.
+						</div>
+
+						<table class="table datatable-basic">
+							<thead>
+								<tr>
+                                  <th>header1</th>
+                                  <th>header2</th>
+                                  <th>header3</th>
+                                  <th>header4</th>
+								  <th>header5</th>
+                                </tr>
+							</thead>
+
+                                        <tr>
+										{% for r in result %}
+											<td>{{ r }}</td>
+											
+										{% endfor %}
+										<td>Action</td>
+										</tr>
+    
+						</table>
+					</div>
+					<!-- /basic datatable -->
+	
+{% endblock %}
